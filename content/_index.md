@@ -10,5 +10,5 @@ aws community builder
 
 also interested in node.js, go, flutter, game dev with unity-playmaker
 
-- [[Articles]] # 🇬🇧
+- [[notes/Articles |Articles]]  🇬🇧
 - [linkedin](https://www.linkedin.com/in/kayabaris/)

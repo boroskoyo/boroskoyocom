@@ -11,4 +11,7 @@
 - 07.09.2022 - [Achieving Rule-based observability using Sidekick and Camunda](https://medium.com/runsidekick/achieving-rule-based-observability-using-sidekick-and-camunda-8bb6483c7730?source=your_stories_page-------------------------------------)
 - 23.09.2022 - [Capturing Exception Call Stacks from Node.js Applications](https://medium.com/runsidekick/capturing-exception-call-stacks-from-running-node-js-applications-d9cd81407593?source=your_stories_page-------------------------------------)
 - 28.09.2022 - [Sidekick’s Live Debugging Agents are now open source](https://medium.com/runsidekick/sidekicks-live-debugging-agents-are-now-open-source-e369c04d36a2?source=your_stories_page-------------------------------------)
-
+- 19.10.2022 - [The way we develop software evolves, way we debug can’t stay the same!](https://medium.com/runsidekick/the-way-we-develop-software-evolves-way-we-debug-cant-stay-the-same-98125b685195)
+- 23.11.2022 - [Live Debugging Python Applications](https://medium.com/runsidekick/live-debugging-python-applications-cbec3e4099ab)
+- 24.11.2022 - [Collecting error stacks from backend as exceptions occur in E2E tests — A tutorial on Cypress](https://medium.com/runsidekick/collecting-error-stacks-from-backend-as-exceptions-occur-in-e2e-tests-a-tutorial-on-cypress-ab36793dde30)
+- 14.12.2022 - [Redirecting AWS Lambda invocations to local for Debugging & Hot-Reloading without disrupting the flow](https://kaya.medium.com/redirecting-aws-lambda-invocations-to-local-for-debugging-hot-reloading-without-disrupting-the-67f8e0f7e46b)

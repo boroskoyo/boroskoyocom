@@ -10,6 +10,7 @@ product manager [@runsidekick](https://runsidekick.com) | aws community builder
 also interested in node.js, go, flutter, game dev with unity + playmaker
 
 - [[notes/Articles |Articles]]  🇬🇧
+- [[notes/Stand-up |Stand-up]]  🇹🇷
 - [Games](https://apps.apple.com/us/developer/baris-kaya/id1562905111)
 - [linkedin](https://www.linkedin.com/in/kayabaris/)
 - [medium](https://kaya.medium.com/)

@@ -1,4 +1,4 @@
-## Sidekick Articles
+## Articles
 
 - 27.06.2022 - [Sidekick Recipes #1: Elasticsearch Ingest](https://medium.com/runsidekick/sidekick-recipes-1-elasticsearch-ingest-561d0970c030)
 - 28.07.2022 - [Sidekick Recipes #2: Add missing logs to your running microservices and send them to Loki.](https://medium.com/runsidekick/sidekick-recipes-2-add-missing-logs-to-your-running-microservices-and-send-them-to-loki-1f5a3449343c?source=your_stories_page-------------------------------------)
@@ -16,5 +16,3 @@
 - 24.11.2022 - [Collecting error stacks from backend as exceptions occur in E2E tests — A tutorial on Cypress](https://medium.com/runsidekick/collecting-error-stacks-from-backend-as-exceptions-occur-in-e2e-tests-a-tutorial-on-cypress-ab36793dde30)
 - 14.12.2022 - [Redirecting AWS Lambda invocations to local for Debugging & Hot-Reloading without disrupting the flow](https://kaya.medium.com/redirecting-aws-lambda-invocations-to-local-for-debugging-hot-reloading-without-disrupting-the-67f8e0f7e46b)
 - 24.02.2023 - [Using Grafana to visualize CI Workflow Stats](https://www.runforesight.com/blog/using-grafana-to-visualize-ci-workflow-stats)
-
-

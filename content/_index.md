@@ -5,7 +5,7 @@ enableToc: false
 
 start-ups, stand-up comedy and ankara. 
 
-product manager [@Catchpoint](https://www.catchpoint.com/) | aws community builder
+product engineer [@Synnada](https://www.synnada.ai/) | aws community builder
 
 also interested in node.js, go, flutter, game dev with unity + playmaker
 
